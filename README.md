@@ -6,7 +6,8 @@ Presentation slides: https://docs.google.com/presentation/d/16xoLJZYH2o_vAPWbHhC
 
 # Useful Links
 
-Mozilla Hubs: https://hubs.mozilla.com/
+Mozilla Hubs: https://hubs.mozilla.com
+
 Spoke: https://hubs.mozilla.com/spoke
 
 Sketchfab: https://sketchfab.com/feed
