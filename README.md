@@ -118,7 +118,7 @@ We recommend using spoke on a desktop or laptop computer as some features are no
    
 ---
 
-Controls
+Hubs Controls
 ---
 <!-- 
 https://truben.no/table/ to edit these tables
